@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -127,8 +127,7 @@
     AutoEndOnLeftPage="enabled"
     BreakType="none">
     <TocEntry
-      Title="Conditions"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Title="Conditions" />
     <TocEntry
       Title="Notes, Examples, and Blockquotes"
       Link="/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
